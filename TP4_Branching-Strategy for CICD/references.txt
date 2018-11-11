@@ -1,0 +1,5 @@
+https://blogs.technet.microsoft.com/devops/2016/06/21/a-git-workflow-for-continuous-delivery/
+https://www.atlassian.com/continuous-delivery/continuous-delivery-workflows-with-feature-branching-and-gitflow
+https://www.atlassian.com/continuous-delivery/why-git-and-continuous-delivery-are-super-powered
+https://medium.com/devopslinks/how-we-switch-to-a-continuous-delivery-pipeline-in-3-months-9667b9f65f7a
+ 

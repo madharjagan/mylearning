@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48882589/build-jenkins-pipeline-when-someone-pushes-to-git-repository
